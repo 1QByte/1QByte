@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey everyone, I am Iqbra Kurniawan! 👋
 
-<!--
-**1QByte/1QByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I never thought I would pursue a career in programming, xixi. A lot of challenges, but hope I can be a great programmer 👨🏽‍💻
 
-Here are some ideas to get you started:
+```kotlin
+class Person {
+    private var name: String = "Iqbra Kurniawan"
+    private var major: String = "Informatics Management"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    fun sayHello() {
+        println("Hey, thank you for visiting my GitHub profile!")
+    }
+
+    // Programming languages that I have learned
+    fun showProgrammingLanguages() {
+        val programmingLanguages = listOf(
+            "Kotlin",
+            "Python",
+            "SQL",
+            "Java",
+            "PHP",
+            "C++"
+        )
+    }
+
+    fun getInterests(): ArrayList<String> {
+        val interests = arrayListOf(
+            "Mobile Development",
+            "Algorithm & Engineering",
+            "Arts: movie, music, and literature"
+        )
+        return interests
+    }
+}
+
+```
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1QByte&theme=cobalt)](https://git.io/streak-stats)
+
+### Thank you for scrolling down! Nice to meet you and good luck ✨ 
