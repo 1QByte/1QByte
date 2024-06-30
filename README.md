@@ -6,6 +6,6 @@
 
 
 <h2 align="center">🔥 STREAK STATS 🔥</h2>
-<div align="center">
+<div align="right">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=1QByte&theme=cobalt">
 </div>
